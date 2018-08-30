@@ -86,10 +86,10 @@
 	}
   ],
   
-  "payloads":[ //leaf menu's payload action
+  "payloads":[ 
   	{
   		"PAYLOAD":"m6",
-  		"TYPE":"IMAGE", //GENERIC, QUICKREPLY, TEXT
+  		"TYPE":"IMAGE", 
   		"DETAILS": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_1.png",
 			  			"TEXT":""
