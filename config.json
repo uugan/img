@@ -91,9 +91,30 @@
   		"PAYLOAD":"m6",
   		"TYPE":"IMAGE", //GENERIC, QUICKREPLY, TEXT
   		"DETAILS": [{
-  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/4_busway.jpg",
-  			"TEXT":""
-  		}]
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_1.png",
+			  			"TEXT":""
+			  		},
+					{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_2.png",
+			  			"TEXT":""
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_3.png",
+			  			"TEXT":""
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_4.png",
+			  			"TEXT":""
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_5.png",
+			  			"TEXT":""
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_6.png",
+			  			"TEXT":""
+			  		}
+  		]
   	}
   ]
 
