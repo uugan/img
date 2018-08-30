@@ -89,30 +89,30 @@
   "payloads":[ 
   	{
   		"PAYLOAD":"m6",
-  		"TYPE":"IMAGE", 
+  		"TYPE":"GENERIC", 
   		"DETAILS": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_1.png",
-			  			"TEXT":""
+			  			"TEXT":"Эмчилгээ №1"
 			  		},
 					{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_2.png",
-			  			"TEXT":""
+			  			"TEXT":"Эмчилгээ №2"
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_3.png",
-			  			"TEXT":""
+			  			"TEXT":"Эмчилгээ №3"
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_4.png",
-			  			"TEXT":""
+			  			"TEXT":"Эмчилгээ №4"
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_5.png",
-			  			"TEXT":""
+			  			"TEXT":"Эмчилгээ №5"
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_6.png",
-			  			"TEXT":""
+			  			"TEXT":"Эмчилгээ №6"
 			  		}
   		]
   	}
