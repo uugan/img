@@ -1,0 +1,100 @@
+{
+	"mainmenu":[
+	{
+		"ID": "1",
+		"PARENTID": "-1",
+		"NAME": "Өрөө & Үнэ",
+		"PAYLOAD": "m1"
+	},
+	{
+		"ID": "2",
+		"PARENTID": "-1",
+		"NAME": "Эмчилгээ",
+		"PAYLOAD": "m2"
+	},
+	{
+		"ID": "3",
+		"PARENTID": "-1",
+		"NAME": "Спорт амралтын үйлчилгээ",
+		"PAYLOAD": "m3"
+	},
+	{
+		"ID": "4",
+		"PARENTID": "-1",
+		"NAME": "Тээврийн үйлчилгээ",
+		"PAYLOAD": "m4"
+	},
+	{
+		"ID": "5",
+		"PARENTID": "-1",
+		"NAME": "Захиалга хэрхэн өгөх вэ?",
+		"PAYLOAD": "m5"
+	},
+	{
+		"ID": "6",
+		"PARENTID": "2",
+		"NAME": "Эмчилгээний төрөл",
+		"PAYLOAD": "m6"
+	},
+	{
+		"ID": "7",
+		"PARENTID": "2",
+		"NAME": "Хориглох өвчний заалт",
+		"PAYLOAD": "m7"
+	},
+	{
+		"ID": "8",
+		"PARENTID": "2",
+		"NAME": "Халамж",
+		"PAYLOAD": " ЭМД хөнгөлөлт"
+	},
+	{
+		"ID": "9",
+		"PARENTID": "8",
+		"NAME": "Буцаан олголт авах процесс",
+		"PAYLOAD": "m9"
+	},
+	{
+		"ID": "10",
+		"PARENTID": "4",
+		"NAME": "Тээврийн хуваарь & Тариф",
+		"PAYLOAD": "m10"
+	},
+	{
+		"ID": "11",
+		"PARENTID": "4",
+		"NAME": "Маршрут",
+		"PAYLOAD": "m11"
+	},
+	{
+		"ID": "12",
+		"PARENTID": "5",
+		"NAME": "Бүрдүүлэх бичиг баримт",
+		"PAYLOAD": "m12"
+	},
+	{
+		"ID": "13",
+		"PARENTID": "5",
+		"NAME": "Захиалгын төвийн хаяг",
+		"PAYLOAD": "m13"
+	},
+	{
+		"ID": "14",
+		"PARENTID": "5",
+		"NAME": "Захиалга өгөх",
+		"PAYLOAD": "m14"
+	}
+  ],
+  
+  "payloads":[ //leaf menu's payload action
+  	{
+  		"PAYLOAD":"m6",
+  		"TYPE":"IMAGE", //GENERIC, QUICKREPLY, TEXT
+  		"DETAILS": [{
+  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/4_busway.jpg",
+  			"TEXT":""
+  		}]
+  	}
+  ]
+
+}
