@@ -45,8 +45,8 @@
 	{
 		"ID": "8",
 		"PARENTID": "2",
-		"NAME": "Халамж",
-		"PAYLOAD": " ЭМД хөнгөлөлт"
+		"NAME": "Халамж, ЭМД хөнгөлөлт",
+		"PAYLOAD": "m8"
 	},
 	{
 		"ID": "9",
@@ -56,33 +56,39 @@
 	},
 	{
 		"ID": "10",
-		"PARENTID": "4",
-		"NAME": "Тээврийн хуваарь & Тариф",
+		"PARENTID": "8",
+		"NAME": "Нийгмийн халамж",
 		"PAYLOAD": "m10"
 	},
 	{
 		"ID": "11",
 		"PARENTID": "4",
-		"NAME": "Маршрут",
+		"NAME": "Тээврийн хуваарь & Тариф",
 		"PAYLOAD": "m11"
 	},
 	{
 		"ID": "12",
-		"PARENTID": "5",
-		"NAME": "Бүрдүүлэх бичиг баримт",
+		"PARENTID": "4",
+		"NAME": "Маршрут",
 		"PAYLOAD": "m12"
 	},
 	{
 		"ID": "13",
 		"PARENTID": "5",
-		"NAME": "Захиалгын төвийн хаяг",
+		"NAME": "Бүрдүүлэх бичиг баримт",
 		"PAYLOAD": "m13"
 	},
 	{
 		"ID": "14",
 		"PARENTID": "5",
-		"NAME": "Захиалга өгөх",
+		"NAME": "Захиалгын төвийн хаяг",
 		"PAYLOAD": "m14"
+	},
+	{
+		"ID": "15",
+		"PARENTID": "5",
+		"NAME": "Захиалга өгөх",
+		"PAYLOAD": "m15"
 	}
   ],
   
@@ -113,6 +119,133 @@
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_6.png",
 			  			"TEXT":"Эмчилгээ №6"
+			  		}
+  		]
+  	},
+
+  	{
+  		"PAYLOAD":"m3",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/shargaljuut_stand.png",
+			  			"TEXT":"Спорт амралт үйлчилгээ"
+			  		}
+  		]
+  	},
+  		{
+  		"PAYLOAD":"m1",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/tuw_bair_1.png",
+			  			"TEXT":"Өрөө №1"
+			  		},
+					{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/tuw_bair_2.png",
+			  			"TEXT":"Өрөө №2"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/uwliin_bair.png",
+			  			"TEXT":"Өрөө №3"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/zunii_bair.png",
+			  			"TEXT":"Өрөө №4"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_1.png",
+			  			"TEXT":"Өрөө №5"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_2.png",
+			  			"TEXT":"Өрөө №6"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_3.png",
+			  			"TEXT":"Өрөө №6"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/ger_hothon.png",
+			  			"TEXT":"Өрөө №6"
+			  		}
+  		]
+  	},
+  	{
+  		"PAYLOAD":"m7",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/horigloh_uwchnii_zaalt.png",
+			  			"TEXT":"Хориглох өвчний заалт"
+	 		}
+  	]
+  	},
+  	{
+  		"PAYLOAD":"m9",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/butsaan_olgolt.png",
+			  			"TEXT":"Халамж №1"
+			  		}
+  		]
+  	},
+  	{
+  		"PAYLOAD":"m10",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/niigmiin_halamj_1.png",
+			  			"TEXT":"Халамж №1"
+			  		},
+					{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/niigmiin_halamj_2.png",
+			  			"TEXT":"Халамж №2"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/niigmiin_halamj_4.png",
+			  			"TEXT":"Халамж №3"
+			  		}
+  		]
+  	},
+  	{
+  		"PAYLOAD":"m11",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/teewriin_uilchilgee_2.png",
+			  			"TEXT":"Тээврийн хуваарь, тариф"
+			  		}
+  		]
+  	},
+  	{
+  		"PAYLOAD":"m12",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/4_busway.jpg",
+			  			"TEXT":"Маршрут"
+			  		}
+  		]
+  	},
+  	{
+  		"PAYLOAD":"m13",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/zahialga_uguh_2.png",
+			  			"TEXT":"Бүрдүүлэх бичиг баримт"
+			  		}
+  		]
+  	},
+  	{
+  		"PAYLOAD":"m14",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/zahialga_uguh_1.png",
+			  			"TEXT":"Захиалгын төвийн хаяг"
+			  		}
+  		]
+  	},
+  	{
+  		"PAYLOAD":"m14",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/2_order.png",
+			  			"TEXT":"Захиалгын өгөх"
 			  		}
   		]
   	}
