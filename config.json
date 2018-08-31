@@ -97,19 +97,22 @@
 		"ID": "16",
 		"PARENTID": "-1",
 		"NAME": "Туслах цэс",
-		"PAYLOAD": "m16"
+		"PAYLOAD": "m16",
+		"CALL_TYPE":"nested"
 	},
 	{
 		"ID": "17",
 		"PARENTID": "16",
 		"NAME": "Үндсэн цэс",
-		"PAYLOAD": "m17"
+		"PAYLOAD": "m17",
+		"CALL_TYPE":"postback"
 	},
 	{
 		"ID": "18",
 		"PARENTID": "16",
 		"NAME": "Ажилтантай холбогдох",
-		"PAYLOAD": "m18"
+		"PAYLOAD": "m18",
+		"CALL_TYPE":"postback"
 	}]
 ,
 
