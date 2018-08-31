@@ -91,6 +91,28 @@
 		"PAYLOAD": "m15"
 	}
   ],
+
+"persistentmenu":[
+	{
+		"ID": "16",
+		"PARENTID": "-1",
+		"NAME": "Туслах цэс",
+		"PAYLOAD": "m16"
+	},
+	{
+		"ID": "17",
+		"PARENTID": "16",
+		"NAME": "Үндсэн цэс",
+		"PAYLOAD": "m17"
+	},
+	{
+		"ID": "18",
+		"PARENTID": "16",
+		"NAME": "Ажилтантай холбогдох",
+		"PAYLOAD": "m18"
+	}]
+,
+
   
   "payloads":[ 
   	{
