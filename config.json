@@ -314,33 +314,6 @@
 			  			"TEXT":"Утас"
 			  		}
   		]
-  	},
-  	{
-  		"PAYLOAD":"m10--",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/niigmiin_halamj_1.png",
-			  			"TEXT":"Халамж №1"
-			  		},
-					{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/niigmiin_halamj_2.png",
-			  			"TEXT":"Халамж №2"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/niigmiin_halamj_4.png",
-			  			"TEXT":"Халамж №3"
-			  		}
-  		]
-  	},
-  
-  	{
-  		"PAYLOAD":"m15",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/2_order.png",
-			  			"TEXT":"Захиалгын өгөх"
-			  		}
-  		]
   	}
   ]
 
