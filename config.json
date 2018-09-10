@@ -3,93 +3,107 @@
 	{
 		"ID": "1",
 		"PARENTID": "-1",
-		"NAME": "💸Өрөө & Үнэ",
+		"NAME": "📢 Мэдээлэл авах",
 		"PAYLOAD": "m1"
 	},
 	{
 		"ID": "2",
 		"PARENTID": "-1",
-		"NAME": "🏥Эмчилгээ",
+		"NAME": "📲 Захиалга өгөх",
 		"PAYLOAD": "m2"
 	},
 	{
 		"ID": "3",
 		"PARENTID": "-1",
-		"NAME": "🍭Спорт, амралт",
+		"NAME": "🍭 Бусад",
 		"PAYLOAD": "m3"
 	},
 	{
-		"ID": "4",
-		"PARENTID": "-1",
-		"NAME": "🚐Тээврийн үйлчилгээ",
-		"PAYLOAD": "m4"
-	},
-	{
-		"ID": "5",
-		"PARENTID": "-1",
-		"NAME": "📲Захиалга өгөх",
-		"PAYLOAD": "m5"
-	},
-	{
 		"ID": "6",
-		"PARENTID": "2",
-		"NAME": "Эмчилгээний төрөл",
+		"PARENTID": "1",
+		"NAME": "Өрөө & үнэ",
 		"PAYLOAD": "m6"
 	},
 	{
 		"ID": "7",
-		"PARENTID": "2",
-		"NAME": "Хориглох заалт",
+		"PARENTID": "1",
+		"NAME": "Эмчилгээ",
 		"PAYLOAD": "m7"
 	},
 	{
 		"ID": "8",
-		"PARENTID": "2",
-		"NAME": "Халамж, хөнгөлөлт",
+		"PARENTID": "1",
+		"NAME": "Спорт амралтын үйлчилгээ",
 		"PAYLOAD": "m8"
 	},
 	{
 		"ID": "9",
-		"PARENTID": "8",
-		"NAME": "Буцаан олголт",
+		"PARENTID": "1",
+		"NAME": "Хоол",
 		"PAYLOAD": "m9"
 	},
 	{
 		"ID": "10",
-		"PARENTID": "8",
-		"NAME": "Нийгмийн халамж",
+		"PARENTID": "1",
+		"NAME": "Тээвэр",
 		"PAYLOAD": "m10"
 	},
 	{
 		"ID": "11",
-		"PARENTID": "4",
-		"NAME": "Тээврийн тариф",
+		"PARENTID": "1",
+		"NAME": "Байршил",
 		"PAYLOAD": "m11"
 	},
-	{
-		"ID": "12",
-		"PARENTID": "4",
-		"NAME": "Тээврийн маршрут",
-		"PAYLOAD": "m12"
-	},
-	{
+
+    {
 		"ID": "13",
-		"PARENTID": "5",
-		"NAME": "Бүрдүүлэх бичиг",
+		"PARENTID": "2",
+		"NAME": "Бүрдүүлэх материал",
 		"PAYLOAD": "m13"
 	},
 	{
 		"ID": "14",
-		"PARENTID": "5",
-		"NAME": "Захиалгын төв",
+		"PARENTID": "2",
+		"NAME": "Хэрхэн захиалга өгөх вэ?",
 		"PAYLOAD": "m14"
 	},
 	{
 		"ID": "15",
-		"PARENTID": "5",
-		"NAME": "Захиалга өгөх",
+		"PARENTID": "2",
+		"NAME": "Оператортой холбогдох",
 		"PAYLOAD": "m15"
+	},
+	{
+		"ID": "16",
+		"PARENTID": "3",
+		"NAME": "Захиалгын төв",
+		"PAYLOAD": "m16"
+	},
+	{
+		"ID": "17",
+		"PARENTID": "3",
+		"NAME": "Утас",
+		"PAYLOAD": "m17"
+	},
+	{
+		"ID": "18",
+		"PARENTID": "3",
+		"NAME": "Түгээмэл асуултууд",
+		"PAYLOAD": "m18"
+	},
+	{
+		"ID": "19",
+		"PARENTID": "16",
+		"NAME": "Байршил",
+		"PAYLOAD": "m19"
+	},
+	{
+		"ID": "20",
+		"PARENTID": "16",
+		"NAME": "Цагийн хуваарь",
+		"PAYLOAD": "m20"
 	}
+
   ],
 
 "persistentmenu":[
@@ -110,7 +124,7 @@
 	{
 		"ID": "18",
 		"PARENTID": "16",
-		"NAME": "Ажилтантай холбогдох",
+		"NAME": "Оператортой холбогдох",
 		"PAYLOAD": "m18",
 		"CALL_TYPE":"postback"
 	}]
@@ -119,37 +133,41 @@
   
   "payloads":[ 
   	{
-  		"PAYLOAD":"m6",
+  		"PAYLOAD":"m7",
   		"TYPE":"GENERIC", 
   		"DETAILS": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_1.png",
-			  			"TEXT":"Эмчилгээ №1"
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_rashaan.png",
+			  			"TEXT":"Рашаан эмчилгээ"
 			  		},
 					{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_2.png",
-			  			"TEXT":"Эмчилгээ №2"
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_shavar.png",
+			  			"TEXT":"Шавар эмчилгээ"
 			  		},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_3.png",
-			  			"TEXT":"Эмчилгээ №3"
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_zamag.png",
+			  			"TEXT":"Замаг эмчилгээ"
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_4.png",
-			  			"TEXT":"Эмчилгээ №4"
+			  			"TEXT":"Уурын эмчилгээ"
 			  		},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_5.png",
-			  			"TEXT":"Эмчилгээ №5"
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_bariazasal.png",
+			  			"TEXT":"Бариа засал"
 			  		},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_6.png",
-			  			"TEXT":"Эмчилгээ №6"
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_physic.png",
+			  			"TEXT":"Физик эмчилгээ"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_shawar_vann.png",
+			  			"TEXT":"Шавар ванн эмчилгээ"
 			  		}
   		]
   	},
 
   	{
-  		"PAYLOAD":"m3",
+  		"PAYLOAD":"m8",
   		"TYPE":"GENERIC", 
   		"DETAILS": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/shargaljuut_stand.png",
@@ -157,8 +175,73 @@
 			  		}
   		]
   	},
-  		{
-  		"PAYLOAD":"m1",
+  	{
+  		"PAYLOAD":"m9",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/hoolnii_tsag.png",
+			  			"TEXT":"Хоолны цаг"
+			  		}
+  		]
+  	},
+  	{
+  		"PAYLOAD":"m10",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/teewer_huwaari.png",
+			  			"TEXT":"Тээврийн хуваарь - 1"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/teewer_huwaari_2.png",
+			  			"TEXT":"Тээврийн хуваарь - 2"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/teewer_une.png",
+			  			"TEXT":"Тээврийн тариф"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/4_busway.jpg",
+			  			"TEXT":"Маршрут"
+			  		}
+  		]
+  	},
+  	{
+  		"PAYLOAD":"m11",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/bairshil.png",
+			  			"TEXT":"Байршил"
+	 		}
+  	]
+  	},
+  	{
+  		"PAYLOAD":"m13",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/bvrdvvleh_material.png",
+			  			"TEXT":"Бүрдүүлэх материал"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/ta_daraah_onoshtoi_bol.png",
+			  			"TEXT":"Дараах оноштой бол эмчид хандана уу"
+			  		}
+  		]
+  	},
+  	{
+  		"PAYLOAD":"m14",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/how_order1.png",
+			  			"TEXT":"Утсаар захиалах"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/how_order2.png",
+			  			"TEXT":"Өөрийн биеээр ирж захиалах"
+			  		}
+  		]
+  	},
+  	{
+  		"PAYLOAD":"m6",
   		"TYPE":"GENERIC", 
   		"DETAILS": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/tuw_bair_1.png",
@@ -195,25 +278,28 @@
   		]
   	},
   	{
-  		"PAYLOAD":"m7",
+  		"PAYLOAD":"m16",
   		"TYPE":"GENERIC", 
   		"DETAILS": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/horigloh_uwchnii_zaalt.png",
-			  			"TEXT":"Хориглох өвчний заалт"
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/center_location.png",
+			  			"TEXT":"Байршил"
+	 		},{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/center_timetable.png",
+			  			"TEXT":"Цагийн хуваарь"
 	 		}
   	]
   	},
   	{
-  		"PAYLOAD":"m9",
+  		"PAYLOAD":"m17",
   		"TYPE":"GENERIC", 
   		"DETAILS": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/butsaan_olgolt.png",
-			  			"TEXT":"Халамж №1"
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/how_order1.png",
+			  			"TEXT":"Утас"
 			  		}
   		]
   	},
   	{
-  		"PAYLOAD":"m10",
+  		"PAYLOAD":"m10--",
   		"TYPE":"GENERIC", 
   		"DETAILS": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/niigmiin_halamj_1.png",
@@ -229,42 +315,7 @@
 			  		}
   		]
   	},
-  	{
-  		"PAYLOAD":"m11",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/teewriin_uilchilgee_2.png",
-			  			"TEXT":"Тээврийн хуваарь, тариф"
-			  		}
-  		]
-  	},
-  	{
-  		"PAYLOAD":"m12",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/4_busway.jpg",
-			  			"TEXT":"Маршрут"
-			  		}
-  		]
-  	},
-  	{
-  		"PAYLOAD":"m13",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/zahialga_uguh_2.png",
-			  			"TEXT":"Бүрдүүлэх бичиг баримт"
-			  		}
-  		]
-  	},
-  	{
-  		"PAYLOAD":"m14",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/zahialga_uguh_1.png",
-			  			"TEXT":"Захиалгын төвийн хаяг"
-			  		}
-  		]
-  	},
+  
   	{
   		"PAYLOAD":"m15",
   		"TYPE":"GENERIC", 
