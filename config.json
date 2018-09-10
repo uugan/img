@@ -5,63 +5,72 @@
 		"PARENTID": "-1",
 		"NAME": "📢 Мэдээлэл авах",
 		"PAYLOAD": "m1",
-		"ORDER" : "0"
+		"ORDER" : "0",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
 	{
 		"ID": "2",
 		"PARENTID": "-1",
 		"NAME": "📲 Захиалга өгөх",
 		"PAYLOAD": "m2",
-		"ORDER" : "1"
+		"ORDER" : "1",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
 	{
 		"ID": "3",
 		"PARENTID": "-1",
 		"NAME": "🍭 Бусад",
 		"PAYLOAD": "m3",
-		"ORDER" : "2"
+		"ORDER" : "2",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
 	{
 		"ID": "6",
 		"PARENTID": "1",
 		"NAME": "Өрөө & үнэ",
 		"PAYLOAD": "m6",
-		"ORDER" : "1"
+		"ORDER" : "1",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_uruu.png"
 	},
 	{
 		"ID": "7",
 		"PARENTID": "1",
 		"NAME": "Эмчилгээ",
 		"PAYLOAD": "m7",
-		"ORDER" : "2"
+		"ORDER" : "2",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_emchilgee.png"
 	},
 	{
 		"ID": "8",
 		"PARENTID": "1",
 		"NAME": "Спорт амралтын үйлчилгээ",
 		"PAYLOAD": "m8",
-		"ORDER" : "3"
+		"ORDER" : "3",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_sport.png"
 	},
 	{
 		"ID": "9",
 		"PARENTID": "1",
 		"NAME": "Хоол",
 		"PAYLOAD": "m9",
-		"ORDER" : "4"
+		"ORDER" : "4",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
 	{
 		"ID": "10",
 		"PARENTID": "1",
 		"NAME": "Тээвэр",
 		"PAYLOAD": "m10",
-		"ORDER" : "5"
+		"ORDER" : "5",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
 	{
 		"ID": "11",
 		"PARENTID": "1",
 		"NAME": "Байршил",
 		"PAYLOAD": "m11",
-		"ORDER" : "6"
+		"ORDER" : "6",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
 
     {
@@ -69,56 +78,64 @@
 		"PARENTID": "2",
 		"NAME": "Бүрдүүлэх материал",
 		"PAYLOAD": "m13",
-		"ORDER" : "1"
+		"ORDER" : "1",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_order.png"
 	},
 	{
 		"ID": "14",
 		"PARENTID": "2",
 		"NAME": "Хэрхэн захиалга өгөх вэ?",
 		"PAYLOAD": "m14",
-		"ORDER" : "2"
+		"ORDER" : "2",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_order.png"
 	},
 	{
 		"ID": "15",
 		"PARENTID": "2",
 		"NAME": "Оператортой холбогдох",
 		"PAYLOAD": "m15",
-		"ORDER" : "3"
+		"ORDER" : "3",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_order.png"
 	},
 	{
 		"ID": "16",
 		"PARENTID": "3",
 		"NAME": "Захиалгын төв",
 		"PAYLOAD": "m16",
-		"ORDER" : "1"
+		"ORDER" : "1",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
 	{
 		"ID": "17",
 		"PARENTID": "3",
 		"NAME": "Утас",
 		"PAYLOAD": "m17",
-		"ORDER" : "2"
+		"ORDER" : "2",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
 	{
 		"ID": "18",
 		"PARENTID": "3",
 		"NAME": "Түгээмэл асуултууд",
 		"PAYLOAD": "m18",
-		"ORDER" : "3"
+		"ORDER" : "3",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
 	{
 		"ID": "19",
 		"PARENTID": "16",
 		"NAME": "Байршил",
 		"PAYLOAD": "m19",
-		"ORDER" : "1"
+		"ORDER" : "1",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
 	{
 		"ID": "20",
 		"PARENTID": "16",
 		"NAME": "Цагийн хуваарь",
 		"PAYLOAD": "m20",
-		"ORDER" : "2"
+		"ORDER" : "2",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	}
 
   ],
@@ -189,6 +206,42 @@
   		"DETAILS": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/shargaljuut_stand.png",
 			  			"TEXT":"Спорт амралт үйлчилгээ"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_draw_child.png",
+			  			"TEXT":"Хүүхдийн зургийн цаг"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_draw_rock.png",
+			  			"TEXT":"Чулуун дээр зурах цаг"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_vann_ball.png",
+			  			"TEXT":"Ванны бөмбөлөг хийх сургалт"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_esgii.png",
+			  			"TEXT":"Эсгий урлалын хичээл"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_yoga.png",
+			  			"TEXT":"Иогийн хичээл"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_nature.png",
+			  			"TEXT":"Байгальтай танилцах"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_river.png",
+			  			"TEXT":"Голын аялал"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_rashaan_ord.png",
+			  			"TEXT":"Рашаан ордын аялал"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_young.png",
+			  			"TEXT":"Залуужуулах аялал"
 			  		}
   		]
   	},
