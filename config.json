@@ -4,104 +4,121 @@
 		"ID": "1",
 		"PARENTID": "-1",
 		"NAME": "📢 Мэдээлэл авах",
-		"PAYLOAD": "m1"
+		"PAYLOAD": "m1",
+		"ORDER" : "0"
 	},
 	{
 		"ID": "2",
 		"PARENTID": "-1",
 		"NAME": "📲 Захиалга өгөх",
-		"PAYLOAD": "m2"
+		"PAYLOAD": "m2",
+		"ORDER" : "1"
 	},
 	{
 		"ID": "3",
 		"PARENTID": "-1",
 		"NAME": "🍭 Бусад",
-		"PAYLOAD": "m3"
+		"PAYLOAD": "m3",
+		"ORDER" : "2"
 	},
 	{
 		"ID": "6",
 		"PARENTID": "1",
 		"NAME": "Өрөө & үнэ",
-		"PAYLOAD": "m6"
+		"PAYLOAD": "m6",
+		"ORDER" : "1"
 	},
 	{
 		"ID": "7",
 		"PARENTID": "1",
 		"NAME": "Эмчилгээ",
-		"PAYLOAD": "m7"
+		"PAYLOAD": "m7",
+		"ORDER" : "2"
 	},
 	{
 		"ID": "8",
 		"PARENTID": "1",
 		"NAME": "Спорт амралтын үйлчилгээ",
-		"PAYLOAD": "m8"
+		"PAYLOAD": "m8",
+		"ORDER" : "3"
 	},
 	{
 		"ID": "9",
 		"PARENTID": "1",
 		"NAME": "Хоол",
-		"PAYLOAD": "m9"
+		"PAYLOAD": "m9",
+		"ORDER" : "4"
 	},
 	{
 		"ID": "10",
 		"PARENTID": "1",
 		"NAME": "Тээвэр",
-		"PAYLOAD": "m10"
+		"PAYLOAD": "m10",
+		"ORDER" : "5"
 	},
 	{
 		"ID": "11",
 		"PARENTID": "1",
 		"NAME": "Байршил",
-		"PAYLOAD": "m11"
+		"PAYLOAD": "m11",
+		"ORDER" : "6"
 	},
 
     {
 		"ID": "13",
 		"PARENTID": "2",
 		"NAME": "Бүрдүүлэх материал",
-		"PAYLOAD": "m13"
+		"PAYLOAD": "m13",
+		"ORDER" : "1"
 	},
 	{
 		"ID": "14",
 		"PARENTID": "2",
 		"NAME": "Хэрхэн захиалга өгөх вэ?",
-		"PAYLOAD": "m14"
+		"PAYLOAD": "m14",
+		"ORDER" : "2"
 	},
 	{
 		"ID": "15",
 		"PARENTID": "2",
 		"NAME": "Оператортой холбогдох",
-		"PAYLOAD": "m15"
+		"PAYLOAD": "m15",
+		"ORDER" : "3"
 	},
 	{
 		"ID": "16",
 		"PARENTID": "3",
 		"NAME": "Захиалгын төв",
-		"PAYLOAD": "m16"
+		"PAYLOAD": "m16",
+		"ORDER" : "1"
 	},
 	{
 		"ID": "17",
 		"PARENTID": "3",
 		"NAME": "Утас",
-		"PAYLOAD": "m17"
+		"PAYLOAD": "m17",
+		"ORDER" : "2"
 	},
 	{
 		"ID": "18",
 		"PARENTID": "3",
 		"NAME": "Түгээмэл асуултууд",
-		"PAYLOAD": "m18"
+		"PAYLOAD": "m18",
+		"ORDER" : "3"
 	},
 	{
 		"ID": "19",
 		"PARENTID": "16",
 		"NAME": "Байршил",
-		"PAYLOAD": "m19"
+		"PAYLOAD": "m19",
+		"ORDER" : "1"
 	},
 	{
 		"ID": "20",
 		"PARENTID": "16",
 		"NAME": "Цагийн хуваарь",
-		"PAYLOAD": "m20"
+		"PAYLOAD": "m20",
+		"ORDER" : "2"
 	}
 
   ],
