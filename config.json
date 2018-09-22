@@ -135,7 +135,7 @@
 		"ID": "20",
 		"PARENTID": "16",
 		"NAME": "Цагийн хуваарь",
-		"PAYLOAD": "m20",
+		"PAYLOAD": "m16",
 		"ORDER" : "2",
 		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
