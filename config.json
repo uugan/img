@@ -135,7 +135,7 @@
 		"ID": "20",
 		"PARENTID": "16",
 		"NAME": "Цагийн хуваарь",
-		"PAYLOAD": "m16",
+		"PAYLOAD": "m20",
 		"ORDER" : "2",
 		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
@@ -297,18 +297,7 @@
   		 "text":"",
   		"elements": [
 
-			         {
-				      "title":"Спорт амралт үйлчилгээ",
-				      "subtitle":"",
-				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/shargaljuut_stand.png",
-				      "buttons":[
-				      	{
-				      		"title":"\uD83D\uDD0DХарах",
-				      		"type": "web_url",
-			  				"url": "https://raw.githubusercontent.com/uugan/img/master/shargaljuut_stand.png"	
-				      	}
-				      ]
-				  	},
+			        
 					{
 				      "title":"Иогийн хичээл",
 				      "subtitle":"",
@@ -888,6 +877,27 @@
 				  	}
   		]
   	},
+  	{
+  		"payload":"m20",
+  		"template_type":"generic",
+  		"text":"", 
+  		"elements": [
+					{
+				      "title":"Цагийн хуваарь",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/center_timetable.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/center_timetable.png"	
+				      	}
+				      ]
+				  	}
+  		]
+  	}
+
+  	,
   	{
   		"payload":"txt1",
   		"template_type":"text",
