@@ -160,21 +160,21 @@
 		"PARENTID": "-1",
 		"NAME": "Туслах цэс",
 		"PAYLOAD": "m16",
-		"CALL_template_type":"nested"
+		"CALL_TYPE":"nested"
 	},
 	{
 		"ID": "17",
 		"PARENTID": "16",
 		"NAME": "Үндсэн цэс",
 		"PAYLOAD": "mainmenu",
-		"CALL_template_type":"postback"
+		"CALL_TYPE":"postback"
 	},
 	{
 		"ID": "18",
 		"PARENTID": "16",
 		"NAME": "Оператортой холбогдох",
 		"PAYLOAD": "m18",
-		"CALL_template_type":"postback"
+		"CALL_TYPE":"postback"
 	}]
 ,
 
@@ -459,7 +459,7 @@
 				      	}
 				      ]
 				  	},
-			  			 {
+			  		{
 				      "title":"Маршрут",
 				      "subtitle":"",
 				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/4_busway.jpg",
