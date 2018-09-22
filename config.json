@@ -71,9 +71,8 @@
 		"NAME": "СПА төв",
 		"PAYLOAD": "m21",
 		"ORDER" : "6",
-		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"	
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/spa_tuw.png"	
 	},
-
     {
 		"ID": "13",
 		"PARENTID": "2",
@@ -198,7 +197,7 @@
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_4.png",
-			  			"TEXT":"Уурын эмчилгээ"
+			  			"TEXT":"Био уур амьсгал"
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_bariazasal.png",
@@ -207,10 +206,6 @@
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_physic.png",
 			  			"TEXT":"Физик эмчилгээ"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_shawar_vann.png",
-			  			"TEXT":"Шавар ванн эмчилгээ"
 			  		}
   		]
   	},
@@ -223,32 +218,24 @@
 			  			"TEXT":"Спорт амралт үйлчилгээ"
 			  		},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_draw_child.png",
-			  			"TEXT":"Хүүхдийн зургийн цаг"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_draw_rock.png",
-			  			"TEXT":"Чулуун дээр зурах цаг"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_vann_ball.png",
-			  			"TEXT":"Ванны бөмбөлөг хийх сургалт"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_esgii.png",
-			  			"TEXT":"Эсгий урлалын хичээл"
-			  		},
-			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_yoga.png",
 			  			"TEXT":"Иогийн хичээл"
 			  		},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_nature.png",
-			  			"TEXT":"Байгальтай танилцах"
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_draw_child.png",
+			  			"TEXT":"Бүтээлч бийрхэн"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_draw_rock.png",
+			  			"TEXT":"Өнгөлөг чулуу"
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_river.png",
 			  			"TEXT":"Голын аялал"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/main.jpg",
+			  			"TEXT":"Шашны аялал"
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_rashaan_ord.png",
@@ -257,6 +244,19 @@
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_young.png",
 			  			"TEXT":"Залуужуулах аялал"
+			  		},
+			  		
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_nature.png",
+			  			"TEXT":"Байгальтай шинжээч"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_vann_ball.png",
+			  			"TEXT":"Ванны бөмбөлөг хийх цаг"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_esgii.png",
+			  			"TEXT":"Уран бүсгүй"
 			  		}
   		]
   	},
@@ -273,16 +273,16 @@
   		"PAYLOAD":"m10",
   		"TYPE":"GENERIC", 
   		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/teewer_une.png",
+			  			"TEXT":"Автобусны төлбөр"
+			  		},
+			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/teewer_huwaari.png",
-			  			"TEXT":"Тээврийн хуваарь - 1"
+			  			"TEXT":"Хөдлөх цагийн хуваарь"
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/teewer_huwaari_2.png",
-			  			"TEXT":"Тээврийн хуваарь - 2"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/teewer_une.png",
-			  			"TEXT":"Тээврийн тариф"
+			  			"TEXT":"Унааны улирлын хуваарь"
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/4_busway.jpg",
@@ -290,12 +290,36 @@
 			  		}
   		]
   	},
+
+	{
+  		"PAYLOAD":"m21",
+  		"TYPE":"GENERIC", 
+  		"DETAILS": [{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/rashaan_djakuz.png",
+			  			"TEXT":"Рашаан джакуз"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/rashaan_saun.png",
+			  			"TEXT":"Рашаан саун"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_shawar_vann.png",
+			  			"TEXT":"Шаврын ванн"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/rashaan_bassein.png",
+			  			"TEXT":"Рашаан бассейн"
+			  		}
+  		]
+  	},
+
+
   	{
   		"PAYLOAD":"m11",
   		"TYPE":"GENERIC", 
   		"DETAILS": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/bairshil.png",
-			  			"TEXT":"Байршил"
+			  			"TEXT":"Хаяг"
 	 		}
   	]
   	},
@@ -330,45 +354,56 @@
   		"TYPE":"GENERIC", 
   		"DETAILS": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/tuw_bair_1.png",
-			  			"TEXT":"Өрөө №1"
+			  			"TEXT":"Гэр бүлийн өрөө ТБ"
 			  		},
 					{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/tuw_bair_2.png",
-			  			"TEXT":"Өрөө №2"
+			  			"TEXT":"2 ортой өрөө"
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/uwliin_bair.png",
-			  			"TEXT":"Өрөө №3"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/zunii_bair.png",
-			  			"TEXT":"Өрөө №4"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_1.png",
-			  			"TEXT":"Өрөө №5"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_2.png",
-			  			"TEXT":"Өрөө №6"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_3.png",
-			  			"TEXT":"Өрөө №6"
+			  			"TEXT":"Энгийн өрөө"
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/ger_hothon.png",
-			  			"TEXT":"Өрөө №6"
+			  			"TEXT":"Гэр хотхон"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/zunii_bair.png",
+			  			"TEXT":"Зуны байр"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_1.png",
+			  			"TEXT":"Эко бүтэн люкс"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_2.png",
+			  			"TEXT":"Эко хагас люкс"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_3.png",
+			  			"TEXT":"Эко стандарт"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/main.jpg",
+			  			"TEXT":"Сойдон бүтэн люкс"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/main.jpg",
+			  			"TEXT":"Сойдон хагас люкс"
+			  		},
+			  		{
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/main.jpg",
+			  			"TEXT":"Сойдон стандарт"
 			  		}
+			  		
   		]
   	},
   	{
   		"PAYLOAD":"m16",
   		"TYPE":"GENERIC", 
-  		"DETAILS": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/center_location.png",
-			  			"TEXT":"Байршил"
-	 		},{
+  		"DETAILS": [
+  			{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/center_timetable.png",
 			  			"TEXT":"Цагийн хуваарь"
 	 		}
