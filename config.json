@@ -196,7 +196,7 @@
   				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_rashaan.png"	
 	      	},
 	      	{
-	      		"title":"\uD83D\uDD0DДэлгэрэнгүй",
+	      		"title":"Дэлгэрэнгүй",
 	      		"type": "postback",
   				"payload": "txt12"	
 	      	}
@@ -213,7 +213,7 @@
   				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_shavar.png"	
 	      	},
 	      	{
-	      		"title":"\uD83D\uDD0DДэлгэрэнгүй",
+	      		"title":"Дэлгэрэнгүй",
 	      		"type": "postback",
   				"payload": "txt13"	
 	      	}
@@ -230,7 +230,7 @@
   				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_zamag.png"	
 	      	},
 	      	{
-	      		"title":"\uD83D\uDD0DДэлгэрэнгүй",
+	      		"title":"Дэлгэрэнгүй",
 	      		"type": "postback",
   				"payload": "txt14"	
 	      	}
@@ -248,7 +248,7 @@
   				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_4.png"	
 	      	},
 	      	{
-	      		"title":"\uD83D\uDD0DДэлгэрэнгүй",
+	      		"title":"Дэлгэрэнгүй",
 	      		"type": "postback",
   				"payload": "txt15"	
 	      	}
@@ -265,7 +265,7 @@
   				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_bariazasal.png"	
 	      	},
 	      	{
-	      		"title":"\uD83D\uDD0DДэлгэрэнгүй",
+	      		"title":"Дэлгэрэнгүй",
 	      		"type": "postback",
   				"payload": "txt16"	
 	      	}
@@ -282,7 +282,7 @@
   				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_physic.png"	
 	      	},
 	      	{
-	      		"title":"\uD83D\uDD0DДэлгэрэнгүй",
+	      		"title":"Дэлгэрэнгүй",
 	      		"type": "postback",
   				"payload": "txt17"	
 	      	}
