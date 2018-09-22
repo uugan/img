@@ -19,7 +19,7 @@
 	{
 		"ID": "3",
 		"PARENTID": "-1",
-		"NAME": "🍭 Бусад",
+		"NAME": "📞 Холбоо барих",
 		"PAYLOAD": "m3",
 		"ORDER" : "2",
 		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
@@ -64,13 +64,14 @@
 		"ORDER" : "5",
 		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
+
 	{
-		"ID": "11",
+	    "ID": "21",
 		"PARENTID": "1",
-		"NAME": "Байршил",
-		"PAYLOAD": "m11",
+		"NAME": "СПА төв",
+		"PAYLOAD": "m21",
 		"ORDER" : "6",
-		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"	
 	},
 
     {
@@ -88,15 +89,16 @@
 		"PAYLOAD": "m14",
 		"ORDER" : "2",
 		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_order.png"
-	},
-	{
-		"ID": "15",
+	}
+    ,{
+		"ID": "22",
 		"PARENTID": "2",
-		"NAME": "Оператортой холбогдох",
-		"PAYLOAD": "m15",
+		"NAME": "Тооцоолуур",
+		"PAYLOAD": "m22",
 		"ORDER" : "3",
 		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_order.png"
 	},
+
 	{
 		"ID": "16",
 		"PARENTID": "3",
@@ -121,22 +123,35 @@
 		"ORDER" : "3",
 		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
+
 	{
-		"ID": "19",
+		"ID": "11",
 		"PARENTID": "16",
-		"NAME": "Байршил",
-		"PAYLOAD": "m19",
+		"NAME": "Хаяг",
+		"PAYLOAD": "m11",
 		"ORDER" : "1",
 		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
 	},
-	{
+    {
 		"ID": "20",
 		"PARENTID": "16",
 		"NAME": "Цагийн хуваарь",
 		"PAYLOAD": "m20",
 		"ORDER" : "2",
 		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
+	},
+
+
+	{
+		"ID": "15",
+		"PARENTID": "14",
+		"NAME": "Оператортой холбогдох",
+		"PAYLOAD": "m15",
+		"ORDER" : "3",
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_order.png"
 	}
+
+	
 
   ],
 
@@ -289,11 +304,11 @@
   		"TYPE":"GENERIC", 
   		"DETAILS": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/bvrdvvleh_material.png",
-			  			"TEXT":"Бүрдүүлэх материал"
+			  			"TEXT":"Бүрдүүлэх материалын жагсаалт"
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/ta_daraah_onoshtoi_bol.png",
-			  			"TEXT":"Дараах оноштой бол эмчид хандана уу"
+			  			"TEXT":"Дараах оноштой бол өрхийн эмчид хандана уу"
 			  		}
   		]
   	},
@@ -302,7 +317,7 @@
   		"TYPE":"GENERIC", 
   		"DETAILS": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/how_order1.png",
-			  			"TEXT":"Утсаар захиалах"
+			  			"TEXT":"Утсаар захиалга өгөх 77437777"
 			  		},
 			  		{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/how_order2.png",
