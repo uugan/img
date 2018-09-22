@@ -183,6 +183,7 @@
   		{
   		"payload":"m7",
   		"template_type":"generic", 
+  		 "text":"",
   		"elements": [
         {
 	      "title":"Рашаан эмчилгээ",
@@ -263,6 +264,7 @@
   	{
   		"payload":"m8",
   		"template_type":"generic", 
+  		 "text":"",
   		"elements": [
 
 			         {
@@ -402,6 +404,7 @@
   	{
   		"payload":"m9",
   		"template_type":"generic", 
+  		 "text":"",
   		"elements": [
 
      				{
@@ -421,6 +424,7 @@
   	{
   		"payload":"m10",
   		"template_type":"generic", 
+  		 "text":"",
   		"elements": [
 
 					{
@@ -477,6 +481,7 @@
 	{
   		"payload":"m21",
   		"template_type":"generic", 
+  		 "text":"",
   		"elements": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/rashaan_djakuz.png",
 			  			"TEXT":"Рашаан джакуз"
@@ -500,6 +505,7 @@
   	{
   		"payload":"m11",
   		"template_type":"generic", 
+  		 "text":"",
   		"elements": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/bairshil.png",
 			  			"TEXT":"Хаяг"
@@ -509,6 +515,7 @@
   	{
   		"payload":"m13",
   		"template_type":"generic", 
+  		 "text":"",
   		"elements": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/bvrdvvleh_material.png",
 			  			"TEXT":"Бүрдүүлэх материалын жагсаалт"
@@ -521,7 +528,8 @@
   	},
   	{
   		"payload":"m14",
-  		"template_type":"generic", 
+  		"template_type":"generic",
+  		 "text":"", 
   		"elements": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/how_order1.png",
 			  			"TEXT":"Утсаар захиалга өгөх 77437777"
@@ -535,6 +543,7 @@
   	{
   		"payload":"m6",
   		"template_type":"generic", 
+  		 "text":"",
   		"elements": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/tuw_bair_1.png",
 			  			"TEXT":"Гэр бүлийн өрөө ТБ"
@@ -585,6 +594,7 @@
   	{
   		"payload":"m16",
   		"template_type":"generic", 
+  		 "text":"",
   		"elements": [
   			{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/center_timetable.png",
@@ -594,7 +604,8 @@
   	},
   	{
   		"payload":"m17",
-  		"template_type":"generic", 
+  		"template_type":"generic",
+  		 "text":"", 
   		"elements": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/how_order1.png",
 			  			"TEXT":"Утас"
