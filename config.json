@@ -6,7 +6,7 @@
 		"NAME": "📢 Мэдээлэл авах",
 		"PAYLOAD": "m1",
 		"ORDER" : "0",
-		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/medeelel_awah.png"
 	},
 	{
 		"ID": "2",
@@ -54,7 +54,7 @@
 		"NAME": "Хоол",
 		"PAYLOAD": "m9",
 		"ORDER" : "4",
-		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/hool.png"
 	},
 	{
 		"ID": "10",
@@ -104,7 +104,7 @@
 		"NAME": "Захиалгын төв",
 		"PAYLOAD": "m16",
 		"ORDER" : "1",
-		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_order.png"
 	},
 	{
 		"ID": "17",
@@ -112,7 +112,7 @@
 		"NAME": "Утас",
 		"PAYLOAD": "m17",
 		"ORDER" : "2",
-		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_order.png"
 	},
 	{
 		"ID": "18",
@@ -120,7 +120,7 @@
 		"NAME": "Түгээмэл асуултууд",
 		"PAYLOAD": "m18",
 		"ORDER" : "3",
-		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_order.png"
 	},
 
 	{
@@ -129,7 +129,7 @@
 		"NAME": "Хаяг",
 		"PAYLOAD": "m11",
 		"ORDER" : "1",
-		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_order.png"
 	},
     {
 		"ID": "20",
@@ -137,7 +137,7 @@
 		"NAME": "Цагийн хуваарь",
 		"PAYLOAD": "m20",
 		"ORDER" : "2",
-		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main.jpg"
+		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_order.png"
 	},
 
 
