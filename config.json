@@ -482,22 +482,55 @@
   		"payload":"m21",
   		"template_type":"generic", 
   		 "text":"",
-  		"elements": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/rashaan_djakuz.png",
-			  			"TEXT":"Рашаан джакуз"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/rashaan_saun.png",
-			  			"TEXT":"Рашаан саун"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_shawar_vann.png",
-			  			"TEXT":"Шаврын ванн"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/rashaan_bassein.png",
-			  			"TEXT":"Рашаан бассейн"
-			  		}
+  		"elements": [
+					{
+				      "title":"Рашаан джакуз",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/rashaan_djakuz.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/rashaan_djakuz.png"	
+				      	}
+				      ]
+				  	},
+  					{
+				      "title":"Рашаан саун",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/rashaan_saun.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/rashaan_saun.png"	
+				      	}
+				      ]
+				  	},
+					{
+				      "title":"Шаврын ванн",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/emchilgee_shawar_vann.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_shawar_vann.png"	
+				      	}
+				      ]
+				  	},
+					{
+				      "title":"Рашаан бассейн",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/rashaan_bassein.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/rashaan_bassein.png"	
+				      	}
+				      ]
+				  	}
   		]
   	},
 
@@ -506,89 +539,220 @@
   		"payload":"m11",
   		"template_type":"generic", 
   		 "text":"",
-  		"elements": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/bairshil.png",
-			  			"TEXT":"Хаяг"
-	 		}
+  		"elements": [
+					{
+				      "title":"Хаяг",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/bairshil.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/bairshil.png"	
+				      	}
+				      ]
+				  	}
   	]
   	},
   	{
   		"payload":"m13",
   		"template_type":"generic", 
   		 "text":"",
-  		"elements": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/bvrdvvleh_material.png",
-			  			"TEXT":"Бүрдүүлэх материалын жагсаалт"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/ta_daraah_onoshtoi_bol.png",
-			  			"TEXT":"Дараах оноштой бол өрхийн эмчид хандана уу"
-			  		}
+  		"elements": [
+					{
+				      "title":"Бүрдүүлэх материалын жагсаалт",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/bvrdvvleh_material.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/bvrdvvleh_material.png"	
+				      	}
+				      ]
+				  	},
+  					{
+				      "title":"Дараах оноштой бол өрхийн эмчид хандана уу",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/ta_daraah_onoshtoi_bol.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/ta_daraah_onoshtoi_bol.png"	
+				      	}
+				      ]
+				  	}
   		]
   	},
   	{
   		"payload":"m14",
   		"template_type":"generic",
   		 "text":"", 
-  		"elements": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/how_order1.png",
-			  			"TEXT":"Утсаар захиалга өгөх 77437777"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/how_order2.png",
-			  			"TEXT":"Өөрийн биеээр ирж захиалах"
-			  		}
+  		"elements": [
+					{
+				      "title":"Утсаар захиалга өгөх 77437777",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/how_order1.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/how_order1.png"	
+				      	}
+				      ]
+				  	},
+				  	{
+				      "title":"Өөрийн биеээр ирж захиалах",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/how_order2.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/how_order2.png"	
+				      	}
+				      ]
+				  	}
   		]
   	},
   	{
   		"payload":"m6",
   		"template_type":"generic", 
   		 "text":"",
-  		"elements": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/tuw_bair_1.png",
-			  			"TEXT":"Гэр бүлийн өрөө ТБ"
-			  		},
+  		"elements": [
 					{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/tuw_bair_2.png",
-			  			"TEXT":"2 ортой өрөө"
-			  		},
+				      "title":"Гэр бүлийн өрөө ТБ",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/tuw_bair_1.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/tuw_bair_1.png"	
+				      	}
+				      ]
+				  	},
+					{
+				      "title":"2 ортой өрөө",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/tuw_bair_2.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/tuw_bair_2.png"	
+				      	}
+				      ]
+				  	},
+					{
+				      "title":"Энгийн өрөө",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/uwliin_bair.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/uwliin_bair.png"	
+				      	}
+				      ]
+				  	},
+  					{
+				      "title":"Гэр хотхон",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/ger_hothon.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/ger_hothon.png"	
+				      	}
+				      ]
+				  	},
+					{
+				      "title":"Зуны байр",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/zunii_bair.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/zunii_bair.png"	
+				      	}
+				      ]
+				  	},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/uwliin_bair.png",
-			  			"TEXT":"Энгийн өрөө"
-			  		},
+				      "title":"Эко бүтэн люкс",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_1.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_1.png"	
+				      	}
+				      ]
+				  	},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/ger_hothon.png",
-			  			"TEXT":"Гэр хотхон"
-			  		},
+				      "title":"Эко хагас люкс",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_2.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_2.png"	
+				      	}
+				      ]
+				  	},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/zunii_bair.png",
-			  			"TEXT":"Зуны байр"
-			  		},
+				      "title":"Эко стандарт",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_3.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_3.png"	
+				      	}
+				      ]
+				  	},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_1.png",
-			  			"TEXT":"Эко бүтэн люкс"
-			  		},
+				      "title":"Сойдон бүтэн люкс",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/soidon_buten_lux.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/soidon_buten_lux.png"	
+				      	}
+				      ]
+				  	},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_2.png",
-			  			"TEXT":"Эко хагас люкс"
-			  		},
+				      "title":"Сойдон хагас люкс",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/main.jpg",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/main.jpg"	
+				      	}
+				      ]
+				  	},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_3.png",
-			  			"TEXT":"Эко стандарт"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/soidon_buten_lux.png",
-			  			"TEXT":"Сойдон бүтэн люкс"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/main.jpg",
-			  			"TEXT":"Сойдон хагас люкс"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/soidon_standart.png",
-			  			"TEXT":"Сойдон стандарт"
-			  		}
-			  		
+				      "title":"Сойдон стандарт",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/soidon_standart.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/soidon_standart.png"	
+				      	}
+				      ]
+				  	}
   		]
   	},
   	{
@@ -596,20 +760,37 @@
   		"template_type":"generic", 
   		 "text":"",
   		"elements": [
-  			{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/center_timetable.png",
-			  			"TEXT":"Цагийн хуваарь"
-	 		}
-  	]
+  				{
+				      "title":"Цагийн хуваарь",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/center_timetable.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/center_timetable.png"	
+				      	}
+				      ]
+				  	}
+	  	]
   	},
   	{
   		"payload":"m17",
   		"template_type":"generic",
   		 "text":"", 
-  		"elements": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/how_order1.png",
-			  			"TEXT":"Утас"
-			  		}
+  		"elements": [
+					{
+				      "title":"Утас",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/how_order1.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/how_order1.png"	
+				      	}
+				      ]
+				  	}
   		]
   	}
   ]
