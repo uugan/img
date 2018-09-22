@@ -194,6 +194,11 @@
 	      		"title":"\uD83D\uDD0DХарах",
 	      		"type": "web_url",
   				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_rashaan.png"	
+	      	},
+	      	{
+	      		"title":"\uD83D\uDD0DДэлгэрэнгүй",
+	      		"type": "postback",
+  				"payload": "txt12"	
 	      	}
 	      ]
 	  	},
@@ -206,6 +211,11 @@
 	      		"title":"\uD83D\uDD0DХарах",
 	      		"type": "web_url",
   				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_shavar.png"	
+	      	},
+	      	{
+	      		"title":"\uD83D\uDD0DДэлгэрэнгүй",
+	      		"type": "postback",
+  				"payload": "txt13"	
 	      	}
 	      ]
 	  	},
@@ -218,6 +228,11 @@
 	      		"title":"\uD83D\uDD0DХарах",
 	      		"type": "web_url",
   				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_zamag.png"	
+	      	},
+	      	{
+	      		"title":"\uD83D\uDD0DДэлгэрэнгүй",
+	      		"type": "postback",
+  				"payload": "txt14"	
 	      	}
 	      ]
 	  	},
@@ -231,6 +246,11 @@
 	      		"title":"\uD83D\uDD0DХарах",
 	      		"type": "web_url",
   				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_4.png"	
+	      	},
+	      	{
+	      		"title":"\uD83D\uDD0DДэлгэрэнгүй",
+	      		"type": "postback",
+  				"payload": "txt15"	
 	      	}
 	      ]
 	  	},
@@ -243,6 +263,11 @@
 	      		"title":"\uD83D\uDD0DХарах",
 	      		"type": "web_url",
   				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_bariazasal.png"	
+	      	},
+	      	{
+	      		"title":"\uD83D\uDD0DДэлгэрэнгүй",
+	      		"type": "postback",
+  				"payload": "txt16"	
 	      	}
 	      ]
 	  	},
@@ -255,6 +280,11 @@
 	      		"title":"\uD83D\uDD0DХарах",
 	      		"type": "web_url",
   				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_physic.png"	
+	      	},
+	      	{
+	      		"title":"\uD83D\uDD0DДэлгэрэнгүй",
+	      		"type": "postback",
+  				"payload": "txt17"	
 	      	}
 	      ]
 	  	}	
@@ -599,6 +629,11 @@
 				      		"title":"\uD83D\uDD0DХарах",
 				      		"type": "web_url",
 			  				"url": "https://raw.githubusercontent.com/uugan/img/master/how_order1.png"	
+				      	},
+				      	{
+				      		"title":"Дэлгэрэнгүй",
+				      		"type": "postback",
+			  				"payload": "txt18"	
 				      	}
 				      ]
 				  	},
@@ -611,6 +646,11 @@
 				      		"title":"\uD83D\uDD0DХарах",
 				      		"type": "web_url",
 			  				"url": "https://raw.githubusercontent.com/uugan/img/master/how_order2.png"	
+				      	},
+				      	{
+				      		"title":"Дэлгэрэнгүй",
+				      		"type": "postback",
+			  				"payload": "txt18"	
 				      	}
 				      ]
 				  	}
@@ -647,18 +687,28 @@
 				      		"title":"\uD83D\uDD0DХарах",
 				      		"type": "web_url",
 			  				"url": "https://raw.githubusercontent.com/uugan/img/master/tuw_bair_2.png"	
+				      	},
+				      	{
+				      		"title":"Дэлгэрэнгүй",
+				      		"type": "postback",
+			  				"payload": "txt2"	
 				      	}
 				      ]
 				  	},
 					{
 				      "title":"Энгийн өрөө",
 				      "subtitle":"",
-				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/uwliin_bair.png",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/tuw_bair_3.png",
 				      "buttons":[
 				      	{
 				      		"title":"\uD83D\uDD0DХарах",
 				      		"type": "web_url",
-			  				"url": "https://raw.githubusercontent.com/uugan/img/master/uwliin_bair.png"	
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/tuw_bair_3.png"	
+				      	},
+				      	{
+				      		"title":"Дэлгэрэнгүй",
+				      		"type": "postback",
+			  				"payload": "txt3"	
 				      	}
 				      ]
 				  	},
@@ -671,6 +721,11 @@
 				      		"title":"\uD83D\uDD0DХарах",
 				      		"type": "web_url",
 			  				"url": "https://raw.githubusercontent.com/uugan/img/master/ger_hothon.png"	
+				      	},
+				      	{
+				      		"title":"Дэлгэрэнгүй",
+				      		"type": "postback",
+			  				"payload": "txt4"	
 				      	}
 				      ]
 				  	},
@@ -683,6 +738,11 @@
 				      		"title":"\uD83D\uDD0DХарах",
 				      		"type": "web_url",
 			  				"url": "https://raw.githubusercontent.com/uugan/img/master/zunii_bair.png"	
+				      	},
+				      	{
+				      		"title":"Дэлгэрэнгүй",
+				      		"type": "postback",
+			  				"payload": "txt5"	
 				      	}
 				      ]
 				  	},
@@ -695,6 +755,11 @@
 				      		"title":"\uD83D\uDD0DХарах",
 				      		"type": "web_url",
 			  				"url": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_1.png"	
+				      	},
+				      	{
+				      		"title":"Дэлгэрэнгүй",
+				      		"type": "postback",
+			  				"payload": "txt6"	
 				      	}
 				      ]
 				  	},
@@ -707,6 +772,11 @@
 				      		"title":"\uD83D\uDD0DХарах",
 				      		"type": "web_url",
 			  				"url": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_2.png"	
+				      	},
+				      	{
+				      		"title":"Дэлгэрэнгүй",
+				      		"type": "postback",
+			  				"payload": "txt7"	
 				      	}
 				      ]
 				  	},
@@ -719,6 +789,11 @@
 				      		"title":"\uD83D\uDD0DХарах",
 				      		"type": "web_url",
 			  				"url": "https://raw.githubusercontent.com/uugan/img/master/eco_tsogtsolbor_3.png"	
+				      	},
+				      	{
+				      		"title":"Дэлгэрэнгүй",
+				      		"type": "postback",
+			  				"payload": "txt8"	
 				      	}
 				      ]
 				  	},
@@ -731,6 +806,11 @@
 				      		"title":"\uD83D\uDD0DХарах",
 				      		"type": "web_url",
 			  				"url": "https://raw.githubusercontent.com/uugan/img/master/soidon_buten_lux.png"	
+				      	},
+				      	{
+				      		"title":"Дэлгэрэнгүй",
+				      		"type": "postback",
+			  				"payload": "txt9"	
 				      	}
 				      ]
 				  	},
@@ -743,6 +823,11 @@
 				      		"title":"\uD83D\uDD0DХарах",
 				      		"type": "web_url",
 			  				"url": "https://raw.githubusercontent.com/uugan/img/master/main.jpg"	
+				      	},
+				      	{
+				      		"title":"Дэлгэрэнгүй",
+				      		"type": "postback",
+			  				"payload": "txt10"	
 				      	}
 				      ]
 				  	},
@@ -755,6 +840,11 @@
 				      		"title":"\uD83D\uDD0DХарах",
 				      		"type": "web_url",
 			  				"url": "https://raw.githubusercontent.com/uugan/img/master/soidon_standart.png"	
+				      	},
+				      	{
+				      		"title":"Дэлгэрэнгүй",
+				      		"type": "postback",
+			  				"payload": "txt11"	
 				      	}
 				      ]
 				  	}
@@ -802,7 +892,107 @@
   		"payload":"txt1",
   		"template_type":"text",
   		"text":"Гэр бүлийн өрөө 38м2: Өрөөний үнэ: 90,000₮ /1 хоног/\nҮйлчилгээний үнэ: 35,000₮ /1 хүн/\nХүүхэд: 3-12 нас 20,000₮, \n0-2 нас 5,500₮\n- Люкс тохижилттой\n- 120см өргөн 2 ортой\n- Бүрэн ариун цэврийн өрөөтэй\n- Рашаан ваннтай\n- Олон сувгийн телевиз\n- Хөргөгч"
+  	},
+  	{
+  		"payload":"txt2",
+  		"template_type":"text",
+  		"text":"2 ортой энгийн өрөө 18м2: 58,000₮ /1 хүний ор хоног, эмчилгээ, сувилгаа, хоолны төлбөр орсон/\nХүүхэд: 3-12 нас 42,000₮ /ортой/\n12,000₮ /оргүй/\n0-2 нас 5,500₮\n- Орны өргөн 90 см\n- Телевиз\n- Өрөөндөө 00, угаалтууртай, давхартаа нийтийн душтэй\n"
+  	},
+  	{
+  		"payload":"txt3",
+  		"template_type":"text",
+  		"text":"3-4 ортой энгийн өрөө 14м2: 46,000₮ /1 хүний ор хоног, эмчилгээ,\nсувилгаа, хоолны цайны төлбөр орсон/\nХүүхэд: 3-12 нас 32,000₮ /ортой/,\n12,000₮ /оргүй/, 0-2 нас 5,500₮\n- Орны өргөн 90 см\n- Давхартаа боловсон 00, угаалтуур, душтэй\n- Телевиз\n"
+  	},
+  	{
+  		"payload":"txt4",
+  		"template_type":"text",
+  		"text":"Гэр хотхон 5 ханатай Монгол гэр: \n40,000₮ /1 хүний ор хоног, эмчилгээ,\nсувилгаа, хоол, цайны төлбөр орсон/\nХүүхэд: 3-12 нас 28,000₮ /ортой/\n12,000₮ /оргүй/, 0-2 нас 5,500₮\n- Орны өргөн 120см\n- Нийтийн боловсон 00, угаалтуур\n- Телевиз\n"
+  	},
+  	{
+  		"payload":"txt5",
+  		"template_type":"text",
+  		"text":"Зуны байр: \n3-4 ортой өрөө 12-20м2:\n40,000₮ /1 хүний ор хоног, эмчилгээ,\nсувилгаа, хоолны цайны төлбөр орсон/\nХүүхэд: 3-12 нас 28,000₮ /ортой/,\n12,000₮ /оргүй/, 0-2 нас 5,500₮\n- Орны өргөн 90 см\n- Нийтийн боловсон 00, угаалтуур\n- Телевиз"
+  	},
+  	{
+  		"payload":"txt6",
+  		"template_type":"text",
+  		"text":"Бүтэн люкс 100м2: \nӨрөөний үнэ: 250,000₮ /1 хоног/\nҮйлчилгээний үнэ: 35,000₮ /1 хүн/\nХүүхэд: 3-12 нас 20,000₮, \n0-2 нас 5,500₮\n- Зочны болон унтлагын 2 өрөөтэй\n- 120см өргөн 2 ортой\n- Бүрэн ариун цэврийн өрөөтэй \n- Рашаан ваннтай\n- Олон сувгийн телевиз\n- Хөргөгч\n- Камен зуух"
+  	},
+  	{
+  		"payload":"txt7",
+  		"template_type":"text",
+  		"text":"Хагас люкс 43м2: \nӨрөөний үнэ: 90,000₮ /1 хоног/\nҮйлчилгээний үнэ: 35,000₮ /1 хүн/\nХүүхэд: 3-12 нас 20,000₮, \n0-2 нас 5,500₮\n- 120см өргөн 2 ортой\n- Бүрэн ариун цэврийн өрөөтэй \n- Рашаан ваннтай\n- Олон сувгийн телевиз\n- Хөргөгч\n"
+  	},
+  	{
+  		"payload":"txt8",
+  		"template_type":"text",
+  		"text":"Стандарт - 30м2: \nӨрөөний үнэ: 80,000₮ /1 хоног/\nҮйлчилгээний үнэ: 35,000₮ /1 хүн/\nХүүхэд: 3-12 нас 20,000₮, \n0-2 нас 5,500₮\n- 120см өргөн 2 ортой\n- Бүрэн ариун цэврийн өрөөтэй \n- Рашаан ваннтай\n- Олон сувгийн телевиз\n- Хөргөгч\n"
+  	},
+  	{
+  		"payload":"txt9",
+  		"template_type":"text",
+  		"text":"Сойдон бүтэн люкс өрөө 80м2: Өрөөний үнэ: 250,000₮\nҮйлчилгээ: /хүн тус бүр/ \nТом хүн 35,000₮\n3-12 нас 20,000₮\n0-2 нас 5,500₮\n- Унтлагын өрөө тусдаа King size 1 ор + 120см-ийн \n  2 өргөн ортой\n- Бүрэн ариун цэврийн өрөөтэй \n- Рашаан ваннтай\n- Хөргөгч\n"
+  	},
+  	{
+  		"payload":"txt10",
+  		"template_type":"text",
+  		"text":"Мэдээлэл олдсонгүй"
+  	},
+  	{
+  		"payload":"txt11",
+  		"template_type":"text",
+  		"text":"Сойдон стандарт өрөө 21м2: Өрөөний үнэ: 90,000₮\nҮйлчилгээ: /хүн тус бүр/ \nТом хүн 35,000₮\n3-12 нас 20,000₮\n0-2 нас 5,500₮\n- Бүрэн ариун цэврийн өрөөтэй \n- Рашаан ваннтай\n- 120см-ийн 2 өргөн ортой\n- Хөргөгч\n"
+  	},
+
+
+
+
+  	{
+  		"payload":"txt12",
+  		"template_type":"text",
+  		"text":"Халуун рашаанд орох эмчилгээ: Шаргалжуутын рашаанд орох үед түүний найрлага дахь азот, ус төрөгч, хүхэрт ус төрөгч, цахиурын нэгдэл, радоны задралын бүтээгдэхүүнүүд нь арьсаар нэвтэрснээр эмчлэх процесс эхлэдэг."
+  	},
+  	{
+  		"payload":"txt13",
+  		"template_type":"text",
+  		"text":"Халуун шавар тавих: Шаврын дулаан температурын нөлөөлөлд шаварт агуулагдах бодис арьсаар нэвтрэх байдал нэмэгдэн, улмаар цусны урсгалд орж бие махбодийг сайжруулах үйлчлэл үзүүлдэг."
+  	},
+  	{
+  		"payload":"txt14",
+  		"template_type":"text",
+  		"text":"Замаг тавих: Халуун рашааны орд газар ургасан замаг тухайн рашаанд агуулагдах микро-макро элементүүд ихээр хуримтлагдсан байдаг."
+  	},
+  	{
+  		"payload":"txt15",
+  		"template_type":"text",
+  		"text":"Био уур амьсгал: Халуун рашааны нөлөөгөөр зөөлөн чийглэг нөхцөл бий болж, босоо тархалт бүхий /10-50м/ уур манан үүснэ.  Рашааны био уур амьсгалд арьсны харшлын сорил иммунологийн үзүүлэлт буурах, тайвшруулах үйлчилгээтэй."
+  	},
+  	{
+  		"payload":"txt16",
+  		"template_type":"text",
+  		"text":"Бариа засал: Тархины цусан хангамжийн дутагдал, судасны нарийсал, хуян хөөрснөөс үүдэн бий болсон толгойн өвдөлт, нойргүйдэл, хүзүү, мөр чилж, хөшиж өвдөх зовиурууд арилна. "
+  	},
+  	{
+  		"payload":"txt17",
+  		"template_type":"text",
+  		"text":"Физик: Эсийн түвшинд хүрч үйлчлэх Солонгос, Япон физик эмчилгээний аппратуудаар тоноглогдсон кабинеттай. "
+  	},
+
+
+
+  	{
+  		"payload":"txt18",
+  		"template_type":"text",
+  		"text":"Та хамт амрах хүмүүсийнхээ: \n-	Овог, нэр\n-	Регистрийн дугаар\n-	ЭМД-ийн дэвтрийн дугаарууд\n-	Холбоо барих утасны дугааруудыг бүрдүүлээд утсаар захиалгаа өгч болно\n"
+  	},
+	{
+  		"payload":"txt19",
+  		"template_type":"text",
+  		"text":"Та хамт амрах хүмүүсийнхээ \n-	Иргэний үнэмлэх\n-	ЭМД\n-	Хүүхэд бол төрсний гэрчилгээ\n-	Илгээх бичгээ авч ирээрэй. \nСувилалдаа явахдаа ЭМД, Илгээх бичгээ заавал авч яваарай.\n"
   	}
+
+
+
   ]
 
 }
