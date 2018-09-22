@@ -160,141 +160,324 @@
 		"PARENTID": "-1",
 		"NAME": "Туслах цэс",
 		"PAYLOAD": "m16",
-		"CALL_TYPE":"nested"
+		"CALL_template_type":"nested"
 	},
 	{
 		"ID": "17",
 		"PARENTID": "16",
 		"NAME": "Үндсэн цэс",
 		"PAYLOAD": "mainmenu",
-		"CALL_TYPE":"postback"
+		"CALL_template_type":"postback"
 	},
 	{
 		"ID": "18",
 		"PARENTID": "16",
 		"NAME": "Оператортой холбогдох",
 		"PAYLOAD": "m18",
-		"CALL_TYPE":"postback"
+		"CALL_template_type":"postback"
 	}]
 ,
 
   
   "payloads":[ 
-  	{
-  		"PAYLOAD":"m7",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_rashaan.png",
-			  			"TEXT":"Рашаан эмчилгээ"
-			  		},
-					{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_shavar.png",
-			  			"TEXT":"Шавар эмчилгээ"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_zamag.png",
-			  			"TEXT":"Замаг эмчилгээ"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_4.png",
-			  			"TEXT":"Био уур амьсгал"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_bariazasal.png",
-			  			"TEXT":"Бариа засал"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_physic.png",
-			  			"TEXT":"Физик эмчилгээ"
-			  		}
+  		{
+  		"payload":"m7",
+  		"template_type":"generic", 
+  		"elements": [
+        {
+	      "title":"Рашаан эмчилгээ",
+	      "subtitle":"",
+	      "image_url":"https://raw.githubusercontent.com/uugan/img/master/emchilgee_rashaan.png",
+	      "buttons":[
+	      	{
+	      		"title":"\uD83D\uDD0DХарах",
+	      		"type": "web_url",
+  				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_rashaan.png"	
+	      	}
+	      ]
+	  	},
+	  	{
+	      "title":"Шавар эмчилгээ",
+	      "subtitle":"",
+	      "image_url":"https://raw.githubusercontent.com/uugan/img/master/emchilgee_shavar.png",
+	      "buttons":[
+	      	{
+	      		"title":"\uD83D\uDD0DХарах",
+	      		"type": "web_url",
+  				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_shavar.png"	
+	      	}
+	      ]
+	  	},
+		{
+	      "title":"Замаг эмчилгээ",
+	      "subtitle":"",
+	      "image_url":"https://raw.githubusercontent.com/uugan/img/master/emchilgee_zamag.png",
+	      "buttons":[
+	      	{
+	      		"title":"\uD83D\uDD0DХарах",
+	      		"type": "web_url",
+  				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_zamag.png"	
+	      	}
+	      ]
+	  	},
+
+  		{
+	      "title":"Био уур амьсгал",
+	      "subtitle":"",
+	      "image_url":"https://raw.githubusercontent.com/uugan/img/master/emchilgee_4.png",
+	      "buttons":[
+	      	{
+	      		"title":"\uD83D\uDD0DХарах",
+	      		"type": "web_url",
+  				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_4.png"	
+	      	}
+	      ]
+	  	},
+	  	{
+	      "title":"Бариа засал",
+	      "subtitle":"",
+	      "image_url":"https://raw.githubusercontent.com/uugan/img/master/emchilgee_bariazasal.png",
+	      "buttons":[
+	      	{
+	      		"title":"\uD83D\uDD0DХарах",
+	      		"type": "web_url",
+  				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_bariazasal.png"	
+	      	}
+	      ]
+	  	},
+		{
+	      "title":"Физик эмчилгээ",
+	      "subtitle":"",
+	      "image_url":"https://raw.githubusercontent.com/uugan/img/master/emchilgee_physic.png",
+	      "buttons":[
+	      	{
+	      		"title":"\uD83D\uDD0DХарах",
+	      		"type": "web_url",
+  				"url": "https://raw.githubusercontent.com/uugan/img/master/emchilgee_physic.png"	
+	      	}
+	      ]
+	  	}	
   		]
   	},
 
   	{
-  		"PAYLOAD":"m8",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/shargaljuut_stand.png",
-			  			"TEXT":"Спорт амралт үйлчилгээ"
-			  		},
+  		"payload":"m8",
+  		"template_type":"generic", 
+  		"elements": [
+
+			         {
+				      "title":"Спорт амралт үйлчилгээ",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/shargaljuut_stand.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/shargaljuut_stand.png"	
+				      	}
+				      ]
+				  	},
+					{
+				      "title":"Иогийн хичээл",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/sport_yoga.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/sport_yoga.png"	
+				      	}
+				      ]
+				  	},
+				  	{
+				      "title":"Бүтээлч бийрхэн",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/sport_draw_child.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/sport_draw_child.png"	
+				      	}
+				      ]
+				  	},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_yoga.png",
-			  			"TEXT":"Иогийн хичээл"
-			  		},
+				      "title":"Өнгөлөг чулуу",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/sport_draw_rock.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/sport_draw_rock.png"	
+				      	}
+				      ]
+				  	},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_draw_child.png",
-			  			"TEXT":"Бүтээлч бийрхэн"
-			  		},
+				      "title":"Голын аялал",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/sport_river.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/sport_river.png"	
+				      	}
+				      ]
+				  	},
+				    {
+				      "title":"Шашны аялал",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/main.jpg",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/main.jpg"	
+				      	}
+				      ]
+				  	},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_draw_rock.png",
-			  			"TEXT":"Өнгөлөг чулуу"
-			  		},
+				      "title":"Рашаан ордын аялал",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/sport_rashaan_ord.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/sport_rashaan_ord.png"	
+				      	}
+				      ]
+				  	},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_river.png",
-			  			"TEXT":"Голын аялал"
-			  		},
+				      "title":"Залуужуулах аялал",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/sport_young.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/sport_young.png"	
+				      	}
+				      ]
+				  	},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/main.jpg",
-			  			"TEXT":"Шашны аялал"
-			  		},
+				      "title":"Байгаль шинжээч",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/sport_nature.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/sport_nature.png"	
+				      	}
+				      ]
+				  	},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_rashaan_ord.png",
-			  			"TEXT":"Рашаан ордын аялал"
-			  		},
+				      "title":"Ванны бөмбөлөг хийх цаг",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/sport_vann_ball.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/sport_vann_ball.png"	
+				      	}
+				      ]
+				  	},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_young.png",
-			  			"TEXT":"Залуужуулах аялал"
-			  		},
-			  		
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_nature.png",
-			  			"TEXT":"Байгальтай шинжээч"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_vann_ball.png",
-			  			"TEXT":"Ванны бөмбөлөг хийх цаг"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/sport_esgii.png",
-			  			"TEXT":"Уран бүсгүй"
-			  		}
+				      "title":"Уран бүсгүй",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/sport_esgii.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/sport_esgii.png"	
+				      	}
+				      ]
+				  	}
   		]
   	},
   	{
-  		"PAYLOAD":"m9",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/hoolnii_tsag.png",
-			  			"TEXT":"Хоолны цаг"
-			  		}
+  		"payload":"m9",
+  		"template_type":"generic", 
+  		"elements": [
+
+     				{
+				      "title":"Хоолны цаг",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/hoolnii_tsag.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/hoolnii_tsag.png"	
+				      	}
+				      ]
+				  	}
   		]
   	},
   	{
-  		"PAYLOAD":"m10",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/teewer_une.png",
-			  			"TEXT":"Автобусны төлбөр"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/teewer_huwaari.png",
-			  			"TEXT":"Хөдлөх цагийн хуваарь"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/teewer_huwaari_2.png",
-			  			"TEXT":"Унааны улирлын хуваарь"
-			  		},
-			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/4_busway.jpg",
-			  			"TEXT":"Маршрут"
-			  		}
+  		"payload":"m10",
+  		"template_type":"generic", 
+  		"elements": [
+
+					{
+				      "title":"Автобусны төлбөр",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/teewer_une.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/teewer_une.png"	
+				      	}
+				      ]
+				  	},
+  			        {
+				      "title":"Хөдлөх цагийн хуваарь",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/teewer_huwaari.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/teewer_huwaari.png"	
+				      	}
+				      ]
+				  	},
+			  		 {
+				      "title":"Унааны улирлын хуваарь",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/teewer_huwaari_2.png",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/teewer_huwaari_2.png"	
+				      	}
+				      ]
+				  	},
+			  			 {
+				      "title":"Маршрут",
+				      "subtitle":"",
+				      "image_url":"https://raw.githubusercontent.com/uugan/img/master/4_busway.jpg",
+				      "buttons":[
+				      	{
+				      		"title":"\uD83D\uDD0DХарах",
+				      		"type": "web_url",
+			  				"url": "https://raw.githubusercontent.com/uugan/img/master/4_busway.jpg"	
+				      	}
+				      ]
+				  	}
   		]
   	},
 
 	{
-  		"PAYLOAD":"m21",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
+  		"payload":"m21",
+  		"template_type":"generic", 
+  		"elements": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/rashaan_djakuz.png",
 			  			"TEXT":"Рашаан джакуз"
 			  		},
@@ -315,18 +498,18 @@
 
 
   	{
-  		"PAYLOAD":"m11",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
+  		"payload":"m11",
+  		"template_type":"generic", 
+  		"elements": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/bairshil.png",
 			  			"TEXT":"Хаяг"
 	 		}
   	]
   	},
   	{
-  		"PAYLOAD":"m13",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
+  		"payload":"m13",
+  		"template_type":"generic", 
+  		"elements": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/bvrdvvleh_material.png",
 			  			"TEXT":"Бүрдүүлэх материалын жагсаалт"
 			  		},
@@ -337,9 +520,9 @@
   		]
   	},
   	{
-  		"PAYLOAD":"m14",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
+  		"payload":"m14",
+  		"template_type":"generic", 
+  		"elements": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/how_order1.png",
 			  			"TEXT":"Утсаар захиалга өгөх 77437777"
 			  		},
@@ -350,9 +533,9 @@
   		]
   	},
   	{
-  		"PAYLOAD":"m6",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
+  		"payload":"m6",
+  		"template_type":"generic", 
+  		"elements": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/tuw_bair_1.png",
 			  			"TEXT":"Гэр бүлийн өрөө ТБ"
 			  		},
@@ -385,7 +568,7 @@
 			  			"TEXT":"Эко стандарт"
 			  		},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/main.jpg",
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/soidon_buten_lux.png",
 			  			"TEXT":"Сойдон бүтэн люкс"
 			  		},
 			  		{
@@ -393,16 +576,16 @@
 			  			"TEXT":"Сойдон хагас люкс"
 			  		},
 			  		{
-			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/main.jpg",
+			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/soidon_standart.png",
 			  			"TEXT":"Сойдон стандарт"
 			  		}
 			  		
   		]
   	},
   	{
-  		"PAYLOAD":"m16",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [
+  		"payload":"m16",
+  		"template_type":"generic", 
+  		"elements": [
   			{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/center_timetable.png",
 			  			"TEXT":"Цагийн хуваарь"
@@ -410,9 +593,9 @@
   	]
   	},
   	{
-  		"PAYLOAD":"m17",
-  		"TYPE":"GENERIC", 
-  		"DETAILS": [{
+  		"payload":"m17",
+  		"template_type":"generic", 
+  		"elements": [{
 			  			"CONTENT": "https://raw.githubusercontent.com/uugan/img/master/how_order1.png",
 			  			"TEXT":"Утас"
 			  		}
