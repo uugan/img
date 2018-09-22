@@ -630,6 +630,11 @@
 				      		"title":"\uD83D\uDD0DХарах",
 				      		"type": "web_url",
 			  				"url": "https://raw.githubusercontent.com/uugan/img/master/tuw_bair_1.png"	
+				      	},
+				      	{
+				      		"title":"Дэлгэрэнгүй",
+				      		"type": "postback",
+			  				"payload": "txt1"	
 				      	}
 				      ]
 				  	},
@@ -777,7 +782,7 @@
   	{
   		"payload":"m17",
   		"template_type":"generic",
-  		 "text":"", 
+  		"text":"", 
   		"elements": [
 					{
 				      "title":"Утас",
@@ -792,6 +797,11 @@
 				      ]
 				  	}
   		]
+  	},
+  	{
+  		"payload":"txt1",
+  		"template_type":"text",
+  		"text":"Гэр бүлийн өрөө 38м2: Өрөөний үнэ: 90,000₮ /1 хоног/\nҮйлчилгээний үнэ: 35,000₮ /1 хүн/\nХүүхэд: 3-12 нас 20,000₮, \n0-2 нас 5,500₮\n- Люкс тохижилттой\n- 120см өргөн 2 ортой\n- Бүрэн ариун цэврийн өрөөтэй\n- Рашаан ваннтай\n- Олон сувгийн телевиз\n- Хөргөгч"
   	}
   ]
 
