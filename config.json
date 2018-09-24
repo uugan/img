@@ -138,18 +138,7 @@
 		"PAYLOAD": "m20",
 		"ORDER" : "2",
 		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_order.png"
-	},
-
-
-	{
-		"ID": "15",
-		"PARENTID": "14",
-		"NAME": "Оператортой холбогдох",
-		"PAYLOAD": "m15",
-		"ORDER" : "3",
-		"IMAGE_URL":"https://raw.githubusercontent.com/uugan/img/master/main_order.png"
 	}
-
 	
 
   ],
