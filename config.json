@@ -147,7 +147,7 @@
 	{
 		"ID": "16",
 		"PARENTID": "-1",
-		"NAME": "Туслах цэс",
+		"NAME": "Цэс",
 		"PAYLOAD": "m16",
 		"CALL_TYPE":"nested"
 	},
